@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Travis Ong",
+        "email": "21038319@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
